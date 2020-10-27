@@ -32,7 +32,6 @@ namespace Supermarkt
                     shopingList[articleName] += quantity;
             }
 
-
             UpdateShopingList();
         }
 
@@ -63,8 +62,6 @@ namespace Supermarkt
                 quantity = -quantity;
             }
 
-
-
             if (shopingList.ContainsKey(articleName))
             {
                 if (true)
@@ -80,12 +77,12 @@ namespace Supermarkt
                 }
 
             }
+
             UpdateShopingList();
         }
 
         private void UpdateShopingList()
         {
-            //   lBoxShopingList.DataSource = shopingList.ToList();
             lBoxShopingList.DataSource = new BindingSource(shopingList, null);
         }
     }
