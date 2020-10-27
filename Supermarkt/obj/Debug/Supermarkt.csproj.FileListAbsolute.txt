@@ -1,0 +1,10 @@
+C:\03_Coding\02 Projects\C#\Supermarkt\Supermarkt\obj\Debug\Supermarkt.csprojAssemblyReference.cache
+C:\03_Coding\02 Projects\C#\Supermarkt\Supermarkt\obj\Debug\Supermarkt.Form1.resources
+C:\03_Coding\02 Projects\C#\Supermarkt\Supermarkt\obj\Debug\Supermarkt.Properties.Resources.resources
+C:\03_Coding\02 Projects\C#\Supermarkt\Supermarkt\obj\Debug\Supermarkt.csproj.GenerateResource.cache
+C:\03_Coding\02 Projects\C#\Supermarkt\Supermarkt\obj\Debug\Supermarkt.csproj.CoreCompileInputs.cache
+C:\03_Coding\02 Projects\C#\Supermarkt\Supermarkt\bin\Debug\Supermarkt.exe.config
+C:\03_Coding\02 Projects\C#\Supermarkt\Supermarkt\bin\Debug\Supermarkt.exe
+C:\03_Coding\02 Projects\C#\Supermarkt\Supermarkt\bin\Debug\Supermarkt.pdb
+C:\03_Coding\02 Projects\C#\Supermarkt\Supermarkt\obj\Debug\Supermarkt.exe
+C:\03_Coding\02 Projects\C#\Supermarkt\Supermarkt\obj\Debug\Supermarkt.pdb
