@@ -85,5 +85,15 @@ namespace Supermarkt
         {
             lBoxShopingList.DataSource = new BindingSource(shopingList, null);
         }
+
+        private void tbArticle_Click(object sender, EventArgs e)
+        {
+            tbArticle.Text = "";
+        }
+
+        private void tbQuantity_Click(object sender, EventArgs e)
+        {
+            tbQuantity.Text = "";
+        }
     }
 }
